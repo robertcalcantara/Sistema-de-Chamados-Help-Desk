@@ -11,7 +11,7 @@ Sistema simples de gerenciamento de chamados de suporte técnico desenvolvido em
 
 ## Tecnologias
 - React
-- JavaScript
+- JavaScrip
 - Vite
 
 ## Como rodar
